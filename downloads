@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!--=============== FAVICON ===============-->
+        <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+
+        <!--=============== BOXICONS ===============-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+
+        <!--=============== SWIPER CSS ===============--> 
+        <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+
+        <!--=============== CSS ===============--> 
+        <link rel="stylesheet" href="assets/css/styles.css">
+
+        <title>Null Modz Ofiicial</title>
+    </head>
+    <body>
+        <head>
+            <style>
+            a:link {
+              color: rgb(255, 255, 255);
+              background-color: transparent;
+              text-decoration: none;
+            }
+            a:visited {
+              color: rgb(0, 0, 0);
+              background-color: transparent;
+              text-decoration: none;
+            }
+            a:hover {
+              color: rgb(0, 200, 255);
+              background-color: transparent;
+              text-decoration: underline;
+            }
+            a:active {
+              color: rgb(0, 229, 255);
+              background-color: transparent;
+              text-decoration: underline;
+            }
+            </style>
+            <style>
+                .button {
+                  border: none;
+                  color: rgb(0, 0, 0);
+                  padding: 15px 32px;
+                  text-align: center;
+                  text-decoration: none;
+                  display: inline-block;
+                  font-size: 16px;
+                  margin: 4px 2px;
+                  cursor: pointer;
+                }
+                
+                .button1 {background-color: #ffffff;} /* Green */
+                </style>
+            </head>
+
+            <!--==================== NEW WHATSAPP ====================-->
+            <section class="section new" id="newwp">
+                <h2 class="section__title">DOWNLOAD FROM HERE</h2>
+                           <center>
+                                <div class="new__content swiper-slide">
+                                    <img src="assets/img/v1.png" alt="NULL MODZ" width="400" height="400">
+                                <h3 class="new__title">RFA MODS x NULL MODZ</h3>
+                                <span class="new__subtitle"> COLAB VERSION OF RFA MODS AND NULL MODZ</span>
+                                <button class="button button1" onclick="alert('POI DED AV FOOL !!')">CLICK TO DOWNLOAD</button>
+                            </center>
+                            </div>
+                        </div>
+
+        
+
+            <!--=============== SCROLL UP ===============-->
+            <a href="#" class="scrollup" id="scroll-up">
+                <i class='bx bx-up-arrow-alt scrollup__icon'></i>
+            </a>
+        
+        <!--=============== SCROLL REVEAL ===============-->
+        <script src="assets/js/scrollreveal.min.js"></script>
+
+        <!--=============== SWIPER JS ===============-->
+        <script src="assets/js/swiper-bundle.min.js"></script>
+        
+        <!--=============== MAIN JS ===============-->
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
